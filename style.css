@@ -1,3 +1,8 @@
 body {
-  font-family: "PT Sans", "Open sans", sans-serif;
+	font-family: "PT Sans", "Open sans", sans-serif;
+}
+
+img#FollowButton {
+	cursor: pointer;
+	height: 20px;
 }
